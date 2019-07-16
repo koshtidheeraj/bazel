@@ -1,0 +1,6 @@
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-pcl_bazel_trial
+bazel-testlogs
+vgcore.*
